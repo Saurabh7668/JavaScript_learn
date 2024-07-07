@@ -21,3 +21,4 @@ accountCity = "GuruGaon"
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
 
+console.log([accountId, accountEmail, accountPassword, accountCity, accountState]);
